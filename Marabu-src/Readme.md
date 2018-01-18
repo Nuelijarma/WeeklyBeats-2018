@@ -2,7 +2,7 @@
 
 Marabu is a music tracker developped by Aliceffekt/Neauoire/Devine Lu Linvega/?
 
-This folder contains the source files of the tracks composed with it.
+Marabu if the first... software? I managed to use to produce music. I think I like have the whole complexity in a single view.
 
 Links:
 - Get the tracker: https://github.com/hundredrabbits/Marabu
