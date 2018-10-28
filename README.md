@@ -4,7 +4,7 @@
 
 Hi!
 
-This is my first year doing WeeklyBeats. In fact, it is my first time publishing music online! I am trying to give some bonus material for my tracks, if someone is intersted.
+This is my first year doing WeeklyBeats. In fact, it is my first time publishing music online! I am trying to give some bonus material for my tracks, if someone is interested.
 
 ## Repository structure
 
